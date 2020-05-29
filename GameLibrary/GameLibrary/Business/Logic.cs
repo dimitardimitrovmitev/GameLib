@@ -3,9 +3,12 @@ using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
-
+/*  The main Logic class
+    Contains all Functions/Actions
+*/
     public class Logic
     {
+        //Get All 
         private Context Context;
         public List<Library> GetAll()
         {
@@ -14,6 +17,7 @@ using System.Linq;
                 return Context.Libraries.ToList();
             }
         }
+    //  Get Id
         public Library Get(int id)
         {
             using (Context = new Context())
@@ -22,7 +26,7 @@ using System.Linq;
             }
         }
         
-
+    //  Add Game
         public void Add(Library game)
         {
             using (Context = new Context())
@@ -31,6 +35,7 @@ using System.Linq;
                 Context.SaveChanges();
             }
         }
+    // Update Database
         public void Update(Library product)
         {
             using (Context = new Context())
@@ -45,6 +50,7 @@ using System.Linq;
 
             }
         }
+    //  Delete Game by Id
         public void Delete(int id)
         {
             using (Context = new Context())

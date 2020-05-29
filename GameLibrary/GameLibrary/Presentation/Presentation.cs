@@ -1,46 +1,61 @@
 ﻿using GameLibrary.Data;
 using System;
 
+/*
+The main Presentation class
+Contains all run functions and display information.
+*/
 public class Presentation
     {
     private Logic logic = new Logic();
 
     public Presentation()
     {
-        Console.WriteLine("Здравейте! Добре дошли в GameLibrary - мястото където съхранявате свойте игри. За листа от команди напишете [H]");
+        
+        Console.WriteLine("Hello! Welcome to GameLibrary - the place where you can store all your games!!!. To see the avalable commands type [H]");
         while (true)
         {
+            
             Console.Write("Choice: ");
             var key = Console.ReadKey().Key.ToString();
             
                 Console.WriteLine();
 
-                
-                switch (key)
+            //choose which case to use
+            switch (key)
                 {
+                    //When pressed Adds element
                     case "A": Add(); break;
+                    //When pressed prints database
                     case "G": Read(); break;
+                    //When pressed shows special game
                     case "P": ReadOne(); break;
+                    //When pressed delete one game by Id
                     case "D": Delete(); break;
+                    //When pressed Updates a certain game based on the id
                     case "U": Update(); break;
+                    //When pressed shows help menu
                     case "H":
-                        Console.WriteLine("Лист с команди:");
+                        Console.WriteLine("List of commands:");
                         var color = Console.ForegroundColor;
                         Console.ForegroundColor = ConsoleColor.Cyan;
-                        Console.WriteLine("[A]dd - Добавете нова игра към базата данни!");
-                        Console.WriteLine("[G]et - Вижте всяка игра от базата данни!");
-                        Console.WriteLine("[P]rint - Вижте определена игра от базата данни чрез ID!");
-                        Console.WriteLine("[D]elete - Изтрийте игра от базата данни!");
-                        Console.WriteLine("[U]pdate - Обновете информация за дадена игра!");
-                        
+                        Console.WriteLine("[A]dd - Adds new game to the database!");
+                        Console.WriteLine("[G]et - Prints all games in the database!");
+                        Console.WriteLine("[P]rint - Prints a specific game based on the id!");
+                        Console.WriteLine("[D]elete - Deletes centain game from the database!!");
+                        Console.WriteLine("[U]pdate - Updates a certain game based on the id!");
+                        // Color
                         Console.ForegroundColor = color;
                         break;
                     default: return;
+
+                    
                 }
             
         }
     }
-        public void Add()
+    // Adding new game specifications
+    public void Add()
         {
             Library game = new Library();
             
@@ -86,7 +101,7 @@ public class Presentation
             Console.WriteLine("Added!");
             
         }
-
+        //Displays all the games
         public void Read()
         {
                 var game = logic.GetAll();
@@ -101,6 +116,7 @@ public class Presentation
                 
                
         }
+    //Displays specific game by Id 
     public void ReadOne()
     {
         Console.Write("ID: ");
@@ -109,7 +125,7 @@ public class Presentation
         if (game != null) Console.WriteLine($"Id: {game.Id} Name: {game.Name} Release Date: {game.ReleaseDate} Price: {game.Price}$ Genre: {game.Genre}");
         else Console.WriteLine("Id not found!");
     }
-
+    //Updating certain game
     public void Update()
     {
         Console.Write("ID: ");
@@ -134,6 +150,7 @@ public class Presentation
         }
         
     }
+    //Deleting certain game by ID
     public void Delete()
     {
         
@@ -154,13 +171,5 @@ public class Presentation
 
         
     }
-    //public void Random() 
-    //{
-    //    var game = logic.GetAll();
-        
-    //    Random rand = new Random();
-    //    int randomid = rand.Next(1, game.Count);
-    //    var gamee = logic.Get(randomid);
-    //    Console.WriteLine($"Id: {gamee.Id} Name: {gamee.Name} Release Date: {gamee.ReleaseDate} Price: {gamee.Price}$ Genre: {gamee.Genre}");
-    }
 
+    }
