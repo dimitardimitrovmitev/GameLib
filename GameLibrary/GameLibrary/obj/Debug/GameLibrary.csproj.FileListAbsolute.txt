@@ -1,0 +1,180 @@
+D:\kurs proekt\GameLibrary\bin\Debug\GameLibrary.exe.config
+D:\kurs proekt\GameLibrary\bin\Debug\GameLibrary.exe
+D:\kurs proekt\GameLibrary\bin\Debug\GameLibrary.pdb
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Identity.Client.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Buffers.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Collections.Immutable.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Data.SqlClient.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Memory.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\kurs proekt\GameLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.Identity.Client.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\kurs proekt\GameLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Buffers.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Collections.Immutable.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Data.SqlClient.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Memory.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\kurs proekt\GameLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\kurs proekt\GameLibrary\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\kurs proekt\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+D:\kurs proekt\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\kurs proekt\GameLibrary\obj\Debug\GameLibrary.csproj.CopyComplete
+D:\kurs proekt\GameLibrary\obj\Debug\GameLibrary.exe
+D:\kurs proekt\GameLibrary\obj\Debug\GameLibrary.pdb
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\kurs proekt\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\GameLibrary\GameLibrary\bin\Debug\GameLibrary.exe.config
+D:\GameLibrary\GameLibrary\bin\Debug\GameLibrary.exe
+D:\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Identity.Client.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Buffers.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Collections.Immutable.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Data.SqlClient.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Memory.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GameLibrary\GameLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.Identity.Client.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\GameLibrary\GameLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Buffers.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Collections.Immutable.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Data.SqlClient.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Memory.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GameLibrary\GameLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GameLibrary\GameLibrary\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+D:\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CopyComplete
+D:\GameLibrary\GameLibrary\obj\Debug\GameLibrary.exe
+D:\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
