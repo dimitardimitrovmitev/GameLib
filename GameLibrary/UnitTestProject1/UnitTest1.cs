@@ -12,7 +12,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             //Arrange
-            Presentation presentation = new Presentation();
+            
             Logic logic = new Logic();
             var id = 1;
             var name = "game";
@@ -22,9 +22,9 @@ namespace UnitTestProject1
             var library = new Library { Id = id, Name = name, Genre = genre, ReleaseDate = releaseDate, Price = price };
 
             //Act
-            var result = logic.Get(library.Id);
+            Library result = logic.Get(library.Id);
             //Assert
-            
+            Assert.AreSame(library, result);
         }
     }
 }
