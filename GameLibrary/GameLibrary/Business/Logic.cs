@@ -3,10 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
-/*  The main Logic class
-    Contains all Functions/Actions
-*/
-    public class Logic
+/// <summary>
+///  The main Logic class
+///Contains all Functions/Actions
+/// </summary>
+public class Logic
     {
         //Get All 
         private Context Context;

@@ -4,10 +4,12 @@
 /// </summary>
 namespace GameLibrary.Data
 {
-    /*
-    The main Library class
-    Contains all methods for setting: Id, Name, Release date, Genre, Priece;
-*/
+
+
+    /// <summary>
+    /// The main Library class
+    /// Contains all methods for setting: Id, Name, Release date, Genre, Priece;
+    /// </summary>
     public class Library
     {
          [Key]

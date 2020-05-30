@@ -1,5 +1,0 @@
-C:\Users\MITKO\source\repos\GameLib\GameLibrary\.vs\GameLibraryy\v16\lut\0\b\GameLibrary\bin\Debug\GameLibrary.exe.config
-C:\Users\MITKO\source\repos\GameLib\GameLibrary\.vs\GameLibraryy\v16\lut\0\b\GameLibrary\bin\Debug\GameLibrary.exe
-C:\Users\MITKO\source\repos\GameLib\GameLibrary\.vs\GameLibraryy\v16\lut\0\i\GameLibrary\Debug\GameLibrary.csproj.CoreCompileInputs.cache
-C:\Users\MITKO\source\repos\GameLib\GameLibrary\.vs\GameLibraryy\v16\lut\0\i\GameLibrary\Debug\GameLibrary.csproj.CopyComplete
-C:\Users\MITKO\source\repos\GameLib\GameLibrary\.vs\GameLibraryy\v16\lut\0\i\GameLibrary\Debug\GameLibrary.exe

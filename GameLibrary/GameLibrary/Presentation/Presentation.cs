@@ -1,10 +1,10 @@
 ﻿using GameLibrary.Data;
 using System;
 
-/*
-The main Presentation class
-Contains all run functions and display information.
-*/
+/// <summary>
+/// The main Presentation class
+/// Contains all run functions and display information.
+/// </summary>
 public class Presentation
     {
     private Logic logic = new Logic();
@@ -125,6 +125,7 @@ public class Presentation
         if (game != null) Console.WriteLine($"Id: {game.Id} Name: {game.Name} Release Date: {game.ReleaseDate} Price: {game.Price}$ Genre: {game.Genre}");
         else Console.WriteLine("Id not found!");
     }
+    
     //Updating certain game
     public void Update()
     {
